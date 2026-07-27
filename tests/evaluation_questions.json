@@ -1,0 +1,11 @@
+[
+  {
+    "question": "Replace this with a fact directly stated in your document set.",
+    "expected_pages": [1],
+    "should_answer": true
+  },
+  {
+    "question": "Who won the 2022 FIFA World Cup?",
+    "should_answer": false
+  }
+]
